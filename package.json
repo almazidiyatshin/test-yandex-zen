@@ -1,0 +1,15 @@
+{
+  "name": "test-yandex-zen",
+  "version": "1.0.0",
+  "description": "Test Yandex Zen",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "test-yandex-zen": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
