@@ -16,7 +16,9 @@ Write a program that will:
 ## How to use
 There are two options:
 1. Run `node bin/app.js` to launch the application with the generation of a random board.
+
 [![asciicast](https://asciinema.org/a/DTCFTTI814cg81Lsd9zoGtlVB.svg)](https://asciinema.org/a/DTCFTTI814cg81Lsd9zoGtlVB)
 
 2. Run `node bin/app.js /path-to-file` to launch the application and get the board from a file. The board in the file must be in this format `[[0, 0, 0], [0, 0, 0], [0, 0, 0]]`.
+
 [![asciicast](https://asciinema.org/a/HLIgdn0bxkOYmCZeVW9W6Pyp7.svg)](https://asciinema.org/a/HLIgdn0bxkOYmCZeVW9W6Pyp7)
